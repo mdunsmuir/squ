@@ -9,6 +9,10 @@ repository = "https://github.com/mdunsmuir/squ"
 readme = "README.md"
 keywords = ["smart quotes", "convert", "text", "utility", "command line"]
 categories = ["command-line-utilities", "text-editors", "text-processing"]
+exclude = [
+    ".cargo_vcs_info.json",
+    ".gitignore",
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
