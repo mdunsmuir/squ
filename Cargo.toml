@@ -2,6 +2,13 @@
 name = "squ"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Simple command-line utility for converting quotation marks in plaintext files to \"smart quotes\"."
+homepage = "https://github.com/mdunsmuir/squ"
+repository = "https://github.com/mdunsmuir/squ"
+readme = "README.md"
+keywords = ["smart quotes", "convert", "text", "utility", "command line"]
+categories = ["command-line-utilities", "text-editors", "text-processing"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
